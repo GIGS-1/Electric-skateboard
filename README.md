@@ -1,4 +1,4 @@
-# Electric-skateboard
+# Electric-skateboard  -  Završni rad
 
 Skateboard upravljan mikroupravljačem
 
